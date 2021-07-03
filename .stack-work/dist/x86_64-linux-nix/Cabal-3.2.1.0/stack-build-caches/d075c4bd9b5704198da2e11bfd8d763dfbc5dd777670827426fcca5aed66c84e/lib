@@ -1,0 +1,30 @@
+/home/jose/Documents/Code/haskell/lispy/ChangeLog.md:
+  hash: 3510a300fad919e8011af3acbc965db771e0e7aad3ee5c8227e2ce7aef49bd27
+/home/jose/Documents/Code/haskell/lispy/src/LispVal.hs:
+  hash: a08d343b0292437549b203c6a5840466194f8f18860613eb44f0f7066b396f96
+/home/jose/Documents/Code/haskell/lispy/README.md:
+  hash: 2e5f01bd11eb9882d318b87313d1891544a8f18530f82caea487b4ed677d48a1
+/home/jose/Documents/Code/haskell/lispy/src/Prim.hs:
+  hash: fbb5bafae2dcc8b7bd7c987896f33f88eed3c914dacf25b369d3d0fe01b64119
+/home/jose/Documents/Code/haskell/lispy/src/Eval.hs:
+  hash: 823331e4a8dca8676b2083c5ad260d3e4991ed7be17e0cc4f7228f704da980f2
+/home/jose/Documents/Code/haskell/lispy/src/Repl.hs:
+  hash: 59eecb5f8c90c03d2d0b8245185adf04de7bfde4cf711f03b3354c7c9baba9f4
+/home/jose/Documents/Code/haskell/lispy/lispy.cabal:
+  hash: 1e29235713bb644e31d26d2a380463194c6f638c976f6dc70f4423ad1a2387ab
+/nix/store/mcm0wvsqcwqaxsp8fnwmknmpi0a196w6-ghc-8.10.4/lib/ghc-8.10.4/include/ghcversion.h:
+  hash: ddf0d2a5b1862138ade2de39566db63c5db748c6df9abc567bd8b7326ae3838a
+/home/jose/Documents/Code/haskell/lispy/src/Parser.hs:
+  hash: 93c6168cc40f2ece8cff01d9904f8ddfb14853ccd048ec3df19204f74d0142b8
+/home/jose/Documents/Code/haskell/lispy/package.yaml:
+  hash: a877729e2da8c89fb9c02e32193ccf49671910973c98a42282ef6e7836bf03c2
+/home/jose/Documents/Code/haskell/lispy/src/Cli.hs:
+  hash: 83f507114ca10e60a6e57d62bb2acf6da1aeca85332e488f51bf444d09c29b09
+/home/jose/Documents/Code/haskell/lispy/src/Pretty.hs:
+  hash: 8f6406242d7bc6dfe8205c66411d0bc1d98eb6a1661b91833169aca7c4be2fe8
+/home/jose/Documents/Code/haskell/lispy/.stack-work/dist/x86_64-linux-nix/Cabal-3.2.1.0/build/autogen/Paths_lispy.hs:
+  hash: 9657dd8a7d75e1231b257a51824d5291375ededc987bdb4e3dcd37816da6e99e
+/home/jose/Documents/Code/haskell/lispy/.stack-work/dist/x86_64-linux-nix/Cabal-3.2.1.0/build/autogen/cabal_macros.h:
+  hash: cc8fa6f54c6d0e50e397a3a3fe8ed573841239d69cce1913e4ec8229385f0514
+/nix/store/niplk2w8g0ri0n8h07zyp1l3cbnzv7a2-glibc-2.32-46-dev/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

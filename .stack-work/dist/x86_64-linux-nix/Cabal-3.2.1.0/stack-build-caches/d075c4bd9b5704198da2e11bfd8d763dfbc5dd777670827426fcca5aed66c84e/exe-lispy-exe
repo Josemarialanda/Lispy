@@ -1,0 +1,18 @@
+/home/jose/Documents/Code/haskell/lispy/ChangeLog.md:
+  hash: 3510a300fad919e8011af3acbc965db771e0e7aad3ee5c8227e2ce7aef49bd27
+/home/jose/Documents/Code/haskell/lispy/README.md:
+  hash: 2e5f01bd11eb9882d318b87313d1891544a8f18530f82caea487b4ed677d48a1
+/home/jose/Documents/Code/haskell/lispy/lispy.cabal:
+  hash: 1e29235713bb644e31d26d2a380463194c6f638c976f6dc70f4423ad1a2387ab
+/home/jose/Documents/Code/haskell/lispy/.stack-work/dist/x86_64-linux-nix/Cabal-3.2.1.0/build/lispy-exe/autogen/Paths_lispy.hs:
+  hash: 54f9b37cca5fc5e4404610a4b4c10a3274c0dabe73d375eff3e00689ff17596f
+/nix/store/mcm0wvsqcwqaxsp8fnwmknmpi0a196w6-ghc-8.10.4/lib/ghc-8.10.4/include/ghcversion.h:
+  hash: ddf0d2a5b1862138ade2de39566db63c5db748c6df9abc567bd8b7326ae3838a
+/home/jose/Documents/Code/haskell/lispy/package.yaml:
+  hash: a877729e2da8c89fb9c02e32193ccf49671910973c98a42282ef6e7836bf03c2
+/home/jose/Documents/Code/haskell/lispy/.stack-work/dist/x86_64-linux-nix/Cabal-3.2.1.0/build/lispy-exe/autogen/cabal_macros.h:
+  hash: eb8ef2be3c621dba8cbf7d27615f75b9fd738f0e7431df8b3cff5a759ac25f1d
+/nix/store/niplk2w8g0ri0n8h07zyp1l3cbnzv7a2-glibc-2.32-46-dev/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff
+/home/jose/Documents/Code/haskell/lispy/app/Main.hs:
+  hash: 72e6540142d6bff3a62d835b2115db5cbd47d2608cc8cc3f3f93b896efd38fb3
