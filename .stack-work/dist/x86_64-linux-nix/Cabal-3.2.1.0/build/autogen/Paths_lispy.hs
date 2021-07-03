@@ -29,12 +29,12 @@ version :: Version
 version = Version [0,1,0,0] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
-bindir     = "/home/jose/Documents/Code/haskell/lispy/.stack-work/install/x86_64-linux-nix/d075c4bd9b5704198da2e11bfd8d763dfbc5dd777670827426fcca5aed66c84e/8.10.4/bin"
-libdir     = "/home/jose/Documents/Code/haskell/lispy/.stack-work/install/x86_64-linux-nix/d075c4bd9b5704198da2e11bfd8d763dfbc5dd777670827426fcca5aed66c84e/8.10.4/lib/x86_64-linux-ghc-8.10.4/lispy-0.1.0.0-JCYSbtIImDtKOmDe78XXI1"
-dynlibdir  = "/home/jose/Documents/Code/haskell/lispy/.stack-work/install/x86_64-linux-nix/d075c4bd9b5704198da2e11bfd8d763dfbc5dd777670827426fcca5aed66c84e/8.10.4/lib/x86_64-linux-ghc-8.10.4"
-datadir    = "/home/jose/Documents/Code/haskell/lispy/.stack-work/install/x86_64-linux-nix/d075c4bd9b5704198da2e11bfd8d763dfbc5dd777670827426fcca5aed66c84e/8.10.4/share/x86_64-linux-ghc-8.10.4/lispy-0.1.0.0"
-libexecdir = "/home/jose/Documents/Code/haskell/lispy/.stack-work/install/x86_64-linux-nix/d075c4bd9b5704198da2e11bfd8d763dfbc5dd777670827426fcca5aed66c84e/8.10.4/libexec/x86_64-linux-ghc-8.10.4/lispy-0.1.0.0"
-sysconfdir = "/home/jose/Documents/Code/haskell/lispy/.stack-work/install/x86_64-linux-nix/d075c4bd9b5704198da2e11bfd8d763dfbc5dd777670827426fcca5aed66c84e/8.10.4/etc"
+bindir     = "/home/jose/Documents/Code/haskell/lispy/.stack-work/install/x86_64-linux-nix/ce76bc2a96944c3c6328ee5629d3def49fd0437784dc152693844ec58fd01e43/8.10.4/bin"
+libdir     = "/home/jose/Documents/Code/haskell/lispy/.stack-work/install/x86_64-linux-nix/ce76bc2a96944c3c6328ee5629d3def49fd0437784dc152693844ec58fd01e43/8.10.4/lib/x86_64-linux-ghc-8.10.4/lispy-0.1.0.0-JCYSbtIImDtKOmDe78XXI1"
+dynlibdir  = "/home/jose/Documents/Code/haskell/lispy/.stack-work/install/x86_64-linux-nix/ce76bc2a96944c3c6328ee5629d3def49fd0437784dc152693844ec58fd01e43/8.10.4/lib/x86_64-linux-ghc-8.10.4"
+datadir    = "/home/jose/Documents/Code/haskell/lispy/.stack-work/install/x86_64-linux-nix/ce76bc2a96944c3c6328ee5629d3def49fd0437784dc152693844ec58fd01e43/8.10.4/share/x86_64-linux-ghc-8.10.4/lispy-0.1.0.0"
+libexecdir = "/home/jose/Documents/Code/haskell/lispy/.stack-work/install/x86_64-linux-nix/ce76bc2a96944c3c6328ee5629d3def49fd0437784dc152693844ec58fd01e43/8.10.4/libexec/x86_64-linux-ghc-8.10.4/lispy-0.1.0.0"
+sysconfdir = "/home/jose/Documents/Code/haskell/lispy/.stack-work/install/x86_64-linux-nix/ce76bc2a96944c3c6328ee5629d3def49fd0437784dc152693844ec58fd01e43/8.10.4/etc"
 
 getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: IO FilePath
 getBinDir = catchIO (getEnv "lispy_bindir") (\_ -> return bindir)
